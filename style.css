@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+div {
+  background-color: rgba(127, 174, 255, 0.593);
+  display: flex;
+  align-items: baseline;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 20rem;
+  border: 0.2rem #eee solid;
+  border-radius: 1rem;
+}
+input,
+button {
+  border-radius: 1rem;
+  border: none;
+}
